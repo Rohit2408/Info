@@ -19,7 +19,7 @@ I am Rohit Mondal pursuing B.Tech in KIIT UNIVERSITY, Bhubaneswar and is seeking
 **Connect!!**
 
 <a href="https://www.linkedin.com/in/rohit-mondal-6b55581b7/">
-  <img align='center' alt="Rohit's LinkdeIN" width="22px" color="#FFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align='center' alt="Rohit's LinkdeIN" width="22px" color=#FFFFFF src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   
 <br>
